@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Identity Card</title>
+</head>
+<body>
+    <table align="center" style="width: 500px; height: 100vh; border: 2px solid black;">
+        <tr>
+            <td align="center" colspan="2">
+                <img src="00.jpg" alt="" align="center" width="300" height="100">
+            </td>
+        </tr>
+        <tr height="4">
+            <td width="300">
+                <p align="right">Tadepalligudem - 534101</p>
+            </td>
+            <td>
+                <p align="left" style="margin-left: 10px; ">www.sasi.ac.in</p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <img src="image.jpg" alt="" width="40" height="40" align="right">
+            </td>
+            <td>
+                <p style="color: rgb(0, 53, 0);"><b>Values we live...</b></p>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <img src="user1.jpg" alt="" width="200" height="210">
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <h3 style="color: rgb(0, 63, 0);">B CHARPITA SAI LATEESHA</h3>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <h3 style="font-weight: 100; color: blue;">B.Tech - <span><b style="color: red;">CSE</b></span></h3>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <h2 style="color: rgb(0, 0, 80);">23K61A0514</h2>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <img src="image.png" alt="" height="60">
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p style="color: rgb(247, 10, 10);"><b>Aadhar No: <span style="color: black;"><b>123214343455</b></span></b></p>
+            </td>
+            <td>
+                <p style="color: rgb(247, 10, 10);"><b>Valid: <span style="color: black;"><b>2023-27</b></span></b></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p style="color: rgb(247, 10, 10);"><b>Father: <span style="color: black;"><b>BEDAPUDI SRINU</b></span></b></p>
+            </td>
+            <td>
+                <p style="color: rgb(247, 10, 10);"><b>B.G:<span style="color: black;"><b>O+VE</b></span></b></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p style="color: red;"><b>Village: </b><span style="color: black;"><b>Alampuram</b></span></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <p style="color: red;"><b>Cell: </b><span style="color: black;"><b>1234567890</b></span></p>
+            </td>
+            <td rowspan="2">
+                <p align="right">Pricipal</p>
+            </td>
+        </tr>
+    </table>
+</body>
+</html>
